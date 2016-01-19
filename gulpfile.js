@@ -36,7 +36,7 @@ var sassTasks = lazypipe()
 // Define watch task
 gulp.task('watch', ['styles', 'serve'], function() {
     gulp.watch(paths.sass, ['styles']);
-    gulp.watch(paths.css, ['sync']).on('change', reportChange);
+    gulp.watch(paths.css, ['sync']);
 });
 
 // Define styles task
