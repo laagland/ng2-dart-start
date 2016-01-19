@@ -1,4 +1,4 @@
-part of boilerplate;
+part of start;
 
 @Component(
     selector: 'home',

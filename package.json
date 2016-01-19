@@ -1,7 +1,7 @@
 {
-  "name": "ng2-dart-boilerplate",
+  "name": "ng2-dart-start",
   "version": "0.0.1",
-  "description": "Boilerplate for Angular2 Dart",
+  "description": "Quickstart for Angular2 Dart",
   "main": "web/index.html",
   "dependencies": {
     "bower": "^1.7.1"

@@ -1,4 +1,4 @@
-library boilerplate;
+library start;
 
 import 'dart:async';
 import 'dart:html';
