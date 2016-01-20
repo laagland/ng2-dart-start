@@ -14,5 +14,5 @@ part of start;
 ])
 
 class MainComponent {
-    String name = "Ng2 Dart Boilerplate";
+    String name = "Ng2 Dart Start";
 }
