@@ -9,7 +9,7 @@ import 'package:angular2/bootstrap.dart';
 import 'package:angular2/router.dart';
 
 //data
-import 'package:ng2-dart-boilerplate/shared/schemas.dart';
+import 'package:ng2-dart-start/shared/schemas.dart';
 
 //components
 part 'main.component.dart';
