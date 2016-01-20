@@ -8,3 +8,4 @@ packages
 .DS_Store
 lib/bower
 node_modules
+build
